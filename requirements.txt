@@ -1,0 +1,21 @@
+# Core ML & NLP
+torch>=2.0.0
+transformers>=4.35.0
+
+# Data & Finance
+yfinance>=0.2.33
+pandas>=2.0.0
+numpy>=1.24.0
+
+# News fetching
+newsapi-python>=0.2.7
+feedparser>=6.0.10
+requests>=2.31.0
+
+# Dashboard
+streamlit>=1.29.0
+plotly>=5.18.0
+
+# Database & utils
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
