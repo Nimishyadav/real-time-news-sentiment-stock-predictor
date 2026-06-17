@@ -68,24 +68,6 @@ NewsAPI + RSS Feeds
         ↓
  Streamlit Dashboard
 
----
-
-## 📂 Project Structure
-
-```text
-project/
-│
-├── dashboard.py
-├── fetch_news.py
-├── sentiment_engine.py
-├── database.py
-├── requirements.txt
-├── .env
-├── sentiment.db
-│
-├── assets/
-└── README.md
-```
 
 ---
 
